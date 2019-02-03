@@ -1,26 +1,14 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# My first web page
 
+Welcome to my first [website](https://peterdewolff.github.io/my-first-website/)
 
-Hi there! Welcome to Cloud9 IDE!
+# Discription of the project
 
-To get you started, we included a small hello world application.
+The website I built was a learning journey of the Full stack web developer
+program of Code Instituteto in order to get familiar with the basics
+of coding.
 
-1) Open the hello-world.html file
+# Used technologies
 
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+The project is written in HTML5 and CSS3 using the cloud9 platform. GitHub 
+is used to host the pages.
